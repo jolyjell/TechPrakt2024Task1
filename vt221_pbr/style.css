@@ -4,3 +4,8 @@ p, h1{
 p{
     font-size: 20px;
 }
+.picture_size{
+    width: 400px;
+    height: 200px;
+    margin: 30px 30px 30px 500px;
+}
